@@ -3,6 +3,6 @@ flask-cors
 pandas
 openpyxl
 python-docx
-mailmerge
+docx-mailmerge
 gunicorn
 requests
